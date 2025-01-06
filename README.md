@@ -1,0 +1,2 @@
+# AmeliaCFirstProgram
+Exercise 1
