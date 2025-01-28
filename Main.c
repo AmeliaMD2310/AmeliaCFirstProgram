@@ -3,7 +3,7 @@ Amelia MacDonald
 W0467922
 January 22, 2025
 Programming in C
-Ecercise 3
+Exercise 3
 */
 
 #include<stdio.h>
